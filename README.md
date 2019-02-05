@@ -1,2 +1,3 @@
 # starfoto
-A sketch for tracking starry skies to make long exposure times possible.
+
+This is a sketch for tracking starry skies to make long exposure times possible.
